@@ -19,5 +19,5 @@
 
 ### Blog Post
 <!-- BLOG-POST-LIST:START -->
-
+- [Installasi Java JDK](https://onirutla.medium.com/installasi-java-jdk-ec701beeb5cb?source=rss-d9d81c918cc9------2)
 <!-- BLOG-POST-LIST:END -->
