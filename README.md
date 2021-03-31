@@ -21,5 +21,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Status
-<img align="left" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api?username=onirutlA&show_icons=true&hide_border=false" />
-<img align="left" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onirutlA&layout=compact"/>
+<img align="left" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api?username=onirutlA&theme=dark&show_icons=true&hide_border=false" />
+<img align="left" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onirutlA&theme=dark&show_icons=true&layout=compact"/>
