@@ -6,10 +6,22 @@
 - 💬 Ask me about Android Kotlin or Java Spring
 
 ### Technology Stack
-<img align="left" alt="Android" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Kotlin" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Spring Boot" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<a href="https://github.com/topics/android">
+  <img align="left" alt="Android" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+</a>
+
+<a href="https://github.com/JetBrains/kotlin">
+  <img align="left" alt="Kotlin" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+</a>
+
+<a href="https://github.com/topics/java">
+  <img align="left" alt="Java" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+</a>
+
+<a href="https://github.com/spring-projects/spring-boot">
+  <img align="left" alt="Spring Boot" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />  
+</a>
+
 
 <br/>
 <br/>
@@ -21,5 +33,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Status
-<img align="left" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api?username=onirutlA&theme=dark&show_icons=true&hide_border=false" />
-<img align="left" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onirutlA&theme=dark&show_icons=true&layout=compact"/>
+<img align="center" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api?username=onirutlA&theme=dark&show_icons=true&hide_border=false" />
+<img align="center" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onirutlA&theme=dark&show_icons=true&layout=compact"/>
