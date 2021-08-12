@@ -1,5 +1,5 @@
 ### Hi there I'm Ricky Alturino👋
-##  I’m Computer Science Student with a lot of interest in technology especially develop a mobile application, and Back-End application.
+##  I’m Computer Science Student with a lot of interest in technology especially develop a Mobile Application, and Back-End Application.
 
 - 🌱 I’m currently learning Java Spring, and Android Native Kotlin
 - 💬 Ask me about Android Kotlin or Java Spring
