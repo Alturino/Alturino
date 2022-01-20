@@ -1,4 +1,4 @@
-### Hi there I'm Ricky Alturino👋
+# Hi there I'm Ricky Alturino👋
 ##  I’m Computer Science Student with a lot of interest in technology especially develop a Mobile Application, and Back-End Application.
 
 - 🌱 I’m currently learning Android Native Kotlin Java Spring, Kotlin Spring, Ktor, and Flutter Dart
