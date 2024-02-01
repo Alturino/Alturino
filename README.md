@@ -6,5 +6,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Status
-<img align="center" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api?username=onirutlA&theme=dark&show_icons=true&hide_border=false" />
-<img align="center" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onirutlA&theme=dark&show_icons=true&layout=compact"/>
+<img align="center" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api?username=Alturino&theme=dark&show_icons=true&hide_border=false" />
+<img align="center" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alturino&theme=dark&show_icons=true&layout=compact"/>
