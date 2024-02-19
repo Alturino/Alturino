@@ -14,14 +14,11 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master # this action name
         with:
-          BLOCKS: -> # optional
-          IGNORED_LANGUAGES: YAML JSON TOML, zsh, docker, # optional
           SECTION_NAME: waka # optional
           SHOW_COMMIT: true
           SHOW_DAYS_OF_WEEK: true
           SHOW_EDITORS: true
-          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_LANGUAGE: true
           SHOW_OS: true
           SHOW_PROJECTS: false
-          SHOW_TIME_ZONE: true
           WAKATIME_API_KEY: ${{ secrets.WAKA_TIME_API_KEY }}
