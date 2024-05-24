@@ -15,15 +15,13 @@
 <img align="center" alt="Ricky Stats" src="https://leetcard.jacoblin.cool/onirutla?border=0&radius=20&ext=activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 158 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,18 +56,18 @@ Sunday                   477 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               8 hrs 39 mins       ██████████████░░░░░░░░░░░   56.62 % 
-Text                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Lua                      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-SQL                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-dbout                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+JavaScript               5 hrs 29 mins       ████████████████░░░░░░░░░   62.79 % 
+SQL                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Text                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Lua                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+dbout                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 17 mins      █████████████████████████   100.00 % 
+Neovim                   8 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    14 hrs 20 mins      ███████████████████████░░   93.79 % 
-Mac                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Linux                    7 hrs 48 mins       ██████████████████████░░░   89.16 % 
+Mac                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -89,5 +87,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alturino/Alturino/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2024 00:32:11 UTC
+ Last Updated on 24/05/2024 00:33:13 UTC
 <!--END_SECTION:waka-->
