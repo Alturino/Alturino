@@ -23,8 +23,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 176 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -91,5 +89,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alturino/Alturino/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2025 00:45:33 UTC
+ Last Updated on 03/03/2025 00:44:23 UTC
 <!--END_SECTION:waka-->
