@@ -12,7 +12,7 @@
 <img align="center" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api?username=Alturino&theme=dark&show_icons=true&hide_border=false" />
 <img align="center" alt="Ricky Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alturino&theme=dark&show_icons=true&layout=compact"/>
 <img align="center" width="640px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Alturino&layout=compact&hide_border=true&theme=dark">
-<img align="center" alt="Ricky Stats" src="https://leetcard.jacoblin.cool/onirutla?border=0&radius=20&ext=activity"/>
+<img align="center" alt="Ricky Stats" src="https://leetcard.jacoblin.cool/alturino?border=0&radius=20&ext=activity"/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C197%20hrs%2021%20mins-blue)
