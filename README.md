@@ -15,7 +15,7 @@
 <img align="center" alt="Ricky Stats" src="https://leetcard.jacoblin.cool/alturino?border=0&radius=20&ext=activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,14 +58,16 @@ Sunday                   660 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Text                     7 mins              ████████████████████░░░░░   79.12 % 
-Lua                      2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Text                     7 mins              ██████████████░░░░░░░░░░░   56.42 % 
+Python                   3 mins              ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+Lua                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 
 🔥 Editors: 
-Neovim                   9 mins              █████████████████████████   100.00 % 
+Neovim                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+Linux                    9 mins              ██████████████████░░░░░░░   71.31 % 
+Windows                  3 mins              ███████░░░░░░░░░░░░░░░░░░   28.69 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -85,5 +87,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alturino/Alturino/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2025 00:49:41 UTC
+ Last Updated on 09/07/2025 00:51:27 UTC
 <!--END_SECTION:waka-->
