@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C336%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 548 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,17 +58,17 @@ Sunday                   667 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       11 hrs 6 mins       ████████████░░░░░░░░░░░░░   47.43 % 
-Bash                     4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-YAML                     4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-SquidConf                1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Nginx configuration file 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Go                       11 hrs 6 mins       ████████████░░░░░░░░░░░░░   48.00 % 
+Bash                     4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+YAML                     4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+SquidConf                1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Nginx configuration file 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 🔥 Editors: 
-Neovim                   23 hrs 25 mins      █████████████████████████   100.00 % 
+Neovim                   23 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    23 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -88,5 +88,5 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alturino/Alturino/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2025 00:51:33 UTC
+ Last Updated on 15/08/2025 00:52:08 UTC
 <!--END_SECTION:waka-->
