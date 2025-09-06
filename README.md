@@ -15,13 +15,15 @@
 <img align="center" alt="Ricky Stats" src="https://leetcard.jacoblin.cool/alturino?border=0&radius=20&ext=activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C415%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C415%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 651 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,17 +58,17 @@ Sunday                   676 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   11 hrs 31 mins      ██████████████░░░░░░░░░░░   57.95 % 
-Go                       4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-Markdown                 2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-dbout                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Python                   6 hrs 49 mins       ███████████░░░░░░░░░░░░░░   45.02 % 
+Go                       4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+Markdown                 2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+dbout                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-Neovim                   19 hrs 54 mins      █████████████████████████   100.00 % 
+Neovim                   15 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    19 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Kotlin** 
@@ -86,5 +88,5 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alturino/Alturino/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2025 00:46:01 UTC
+ Last Updated on 06/09/2025 00:44:41 UTC
 <!--END_SECTION:waka-->
