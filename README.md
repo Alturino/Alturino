@@ -15,7 +15,7 @@
 <img align="center" alt="Ricky Stats" src="https://leetcard.jacoblin.cool/alturino?border=0&radius=20&ext=activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C455%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C457%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,7 +23,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 721 Contributions in the Year 2025
+> 🏆 722 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,46 +31,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1673 commits        ████████░░░░░░░░░░░░░░░░░   32.68 % 
-🌆 Daytime                1854 commits        █████████░░░░░░░░░░░░░░░░   36.22 % 
-🌃 Evening                1439 commits        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-🌙 Night                  153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   735 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Tuesday                  587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Wednesday                776 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Thursday                 875 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Friday                   632 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Saturday                 821 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Sunday                   693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Python                   9 hrs 59 mins       ████████████████░░░░░░░░░   63.87 % 
-Docker                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Go                       1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Bash                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-
-🔥 Editors: 
-Neovim                   15 hrs 38 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    15 hrs 38 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -88,5 +48,5 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alturino/Alturino/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 00:44:34 UTC
+ Last Updated on 03/10/2025 00:44:52 UTC
 <!--END_SECTION:waka-->
