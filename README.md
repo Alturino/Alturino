@@ -58,15 +58,13 @@ Sunday                   679 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       3 hrs 14 mins       ████████████████████████░   97.31 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-dbout                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   3 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -86,5 +84,5 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alturino/Alturino/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2025 00:49:30 UTC
+ Last Updated on 29/11/2025 00:49:09 UTC
 <!--END_SECTION:waka-->
