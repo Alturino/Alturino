@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -58,17 +58,13 @@ Sunday                   685 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-YAML                     3 hrs 49 mins       ██████████████████████░░░   89.19 % 
-bigfile                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Go                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Lua                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   4 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Kotlin** 
@@ -88,5 +84,5 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alturino/Alturino/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2025 00:57:52 UTC
+ Last Updated on 22/12/2025 00:57:51 UTC
 <!--END_SECTION:waka-->
