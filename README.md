@@ -15,7 +15,7 @@
 <img align="center" alt="Ricky Stats" src="https://leetcard.jacoblin.cool/alturino?border=0&radius=20&ext=activity"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -84,5 +84,5 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Alturino/Alturino/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2025 00:54:13 UTC
+ Last Updated on 24/12/2025 00:53:44 UTC
 <!--END_SECTION:waka-->
